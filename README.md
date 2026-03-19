@@ -3,7 +3,7 @@
 Projeto simples de API REST usando Python e MySQL.
 
 ## Tecnologias
-- Python (Flask)
+- Python
 - MySQL
 
 ## Funcionalidades
