@@ -1,6 +1,7 @@
 # Sistema de Gestão de Clientes
 
 Projeto simples de API REST usando Python e MySQL.
+Projeto inspirado em uma situação real, onde um sistema local era lento e limitado, a ideia foi criar uma solução simples para organizar melhor os dados e evitar erros nos cadastros do clientes e permitir alteração e consulta rapida, assim não dependemos mais de sistemas ultrapassados.
 
 ## Tecnologias
 - Python
